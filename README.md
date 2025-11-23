@@ -37,6 +37,7 @@
 
  ## OUTPUT
  
+ ![alt text](<edm ex1.2.jpg>)
  
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
